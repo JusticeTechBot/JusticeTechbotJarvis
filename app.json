@@ -1,12 +1,12 @@
 {
-    "name": "Jarvis",
+    "name": "JusticeTechBotJarvis",
     "version":"1.0.0",
-    "description": "Jarvis Multi Device whatsappbot",
+    "description": "JusticeTechBot Multi Device whatsappbot",
     "logo": "https://i.imgur.com/PmfMtfa.jpeg",
     "keywords": ["whatsapp"],
-    "repository": "https://github.com/Loki-Xer/Jarvis",
-    "website": "https://github.com/Loki-Xer/Jarvis",
-    "success_url": "https://github.com/Loki-Xer/Jarvis",
+    "repository": "https://github.com/JusticeTechBot",
+    "website": "http://www.youtube.com/@JusticeTech",
+    "success_url": "https://github.com/JusticeTechBot",
     "stack": "container",
     "env": {
         "BOT_INFO": {
