@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: jarvis-md
+    name: JusticeTechBotjarvis
     env: node
     branch: main
     repo: https://github.com/Loki-Xer/jarvis-md.git
@@ -30,7 +30,7 @@ services:
       - key: AUDIO_DATA
         value: ʟᴏᴋɪ-xᴇʀ;ᴊᴀʀᴠɪꜱ;https://i.imgur.com/VgxJeCm.jpeg
       - key: SUDO
-        value: 917025673121
+        value: 2349032578690
       - key: SERVERURL
         value:
       - key: DATABASE_URL
