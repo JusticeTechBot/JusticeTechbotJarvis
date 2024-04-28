@@ -3,7 +3,7 @@ services:
     name: JusticeTechBotjarvis
     env: node
     branch: main
-    repo: https://github.com/Loki-Xer/jarvis-md.git
+    repo: https://github.com/JusticeTechBot/JusticeTechbotJarvis.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
